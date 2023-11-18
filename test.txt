@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test test 2efwf
+=======
+test test 2sdqwd
+>>>>>>> masterNew
